@@ -1,0 +1,15 @@
+c:\users\innovergent\documents\visual studio 2015\Projects\GoFishWPF\GoFishWPF\bin\Debug\GoFishWPF.exe.config
+c:\users\innovergent\documents\visual studio 2015\Projects\GoFishWPF\GoFishWPF\obj\Debug\MainWindow.g.cs
+c:\users\innovergent\documents\visual studio 2015\Projects\GoFishWPF\GoFishWPF\obj\Debug\App.g.cs
+c:\users\innovergent\documents\visual studio 2015\Projects\GoFishWPF\GoFishWPF\obj\Debug\GeneratedInternalTypeHelper.g.cs
+c:\users\innovergent\documents\visual studio 2015\Projects\GoFishWPF\GoFishWPF\obj\Debug\GoFishWPF_MarkupCompile.cache
+c:\users\innovergent\documents\visual studio 2015\Projects\GoFishWPF\GoFishWPF\obj\Debug\GoFishWPF_MarkupCompile.lref
+c:\users\innovergent\documents\visual studio 2015\Projects\GoFishWPF\GoFishWPF\bin\Debug\GoFishWPF.exe
+c:\users\innovergent\documents\visual studio 2015\Projects\GoFishWPF\GoFishWPF\bin\Debug\GoFishWPF.pdb
+c:\users\innovergent\documents\visual studio 2015\Projects\GoFishWPF\GoFishWPF\obj\Debug\MainWindow.baml
+c:\users\innovergent\documents\visual studio 2015\Projects\GoFishWPF\GoFishWPF\obj\Debug\GoFishWPF.g.resources
+c:\users\innovergent\documents\visual studio 2015\Projects\GoFishWPF\GoFishWPF\obj\Debug\GoFishWPF.Properties.Resources.resources
+c:\users\innovergent\documents\visual studio 2015\Projects\GoFishWPF\GoFishWPF\obj\Debug\GoFishWPF.csproj.GenerateResource.Cache
+c:\users\innovergent\documents\visual studio 2015\Projects\GoFishWPF\GoFishWPF\obj\Debug\GoFishWPF.exe
+c:\users\innovergent\documents\visual studio 2015\Projects\GoFishWPF\GoFishWPF\obj\Debug\GoFishWPF.pdb
+C:\Users\InnoVergent\Documents\Visual Studio 2015\Projects\GoFishWPF\GoFishWPF\obj\Debug\GoFishWPF.csprojResolveAssemblyReference.cache
